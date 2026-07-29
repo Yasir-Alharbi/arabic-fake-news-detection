@@ -42,7 +42,7 @@ This is useful for misinformation analysis and Arabic NLP, but the project corre
 
 ## Repository Contents
 
-- `artifacts/Arabic_Fake_News_Detection_Research_Paper_public.pdf` - public sanitized research paper copy
+- `artifacts/Arabic_Fake_News_Detection_Research_Paper.pdf` - academic research paper
 - `notebooks/Arabic_Fake_News_Detection_Code_public.ipynb` - public sanitized executed notebook
 
-Student IDs and local notebook paths have been removed from the public files.
+The paper is uploaded in its original academic PDF format. The notebook copy is sanitized for public release.
