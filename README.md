@@ -40,6 +40,9 @@ The honest conclusion is that stylometric features improved over vanilla AraBERT
 
 This is useful for misinformation analysis and Arabic NLP, but the project correctly notes that fake-news models should support human judgment, not replace it. AFND labels are source-credibility based, so the model should not be treated as a final truth detector for individual articles.
 
-## Public Release Notes
+## Repository Contents
 
-Before publishing, remove student IDs and confirm whether coauthor names may be shown publicly.
+- `artifacts/Arabic_Fake_News_Detection_Research_Paper_public.pdf` - public sanitized research paper copy
+- `notebooks/Arabic_Fake_News_Detection_Code_public.ipynb` - public sanitized executed notebook
+
+Student IDs and local notebook paths have been removed from the public files.
